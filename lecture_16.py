@@ -91,7 +91,6 @@ class Product:
 
 product1 = Product("Laptop", 2700, 15)
 
-# Print product information
 print("Shop:", product1.shop_name)
 print("Product:", product1.name)
 print("Price:", product1.price)
